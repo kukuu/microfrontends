@@ -1,4 +1,4 @@
-# Microfrontends: 
+# Microfrontends
 
 Micro frontends is a front-end web development pattern in which a single application may be built from disparate builds - different programming client side languages. It is analogous to a microservices approach but for client-side single-page applications written in JavaScript. It is a solution to de-composition and routing for multiple front-end applications.
 
