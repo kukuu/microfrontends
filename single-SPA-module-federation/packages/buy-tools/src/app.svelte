@@ -12,7 +12,7 @@ const addToCart = () => {
 </script>
 <div class="mui-panel">
   <div style="text-align: center;">
-    <img src={fruit[image].image} style="max-height: 200px;" />
+    <img src={fruit[image].image} style="max-height: 205px;" />
   </div>
   <button
     on:click={addToCart}
