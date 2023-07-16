@@ -9,3 +9,6 @@ With a microfrontend, no single team owns the UI in its entirety. Instead, every
 ## Single SPA v Module Federation:
 The main difference between module federation and single-spa is the way they handle the sharing, and reuse of modules.
 Module federation uses a central “entry” point for each module, while single-spa uses a “shell” application to load and manage different micro frontends.
+
+## Application:
+https://github.com/kukuu/microfrontends/tree/main/single-SPA-module-federation
