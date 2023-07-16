@@ -12,3 +12,6 @@ Module federation uses a central “entry” point for each module, while single
 
 ## Application:
 https://github.com/kukuu/microfrontends/tree/main/single-SPA-module-federation
+
+## References:
+Hippo - https://github.com/users/kukuu/projects/3/views/1
