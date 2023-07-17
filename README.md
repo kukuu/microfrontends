@@ -25,7 +25,12 @@ Microfrontends offer several benefits that make them a compelling design solutio
 - Simplified Maintenance and Troubleshooting: Microfrontends facilitate easier maintenance and troubleshooting. Each microfrontend is isolated, making it easier to identify and fix issues within a specific area without affecting the entire application. It also simplifies testing, reduces the risk of regressions, and enables faster bug resolution.
 
 ### Cons
-While Microfrontends offer numerous benefits, they also introduce additional complexity and require careful consideration of factors such as inter-microfrontend communication, routing, and data management. Microfrontends may not be the ideal solution for all applications or organizations, so it's essential to evaluate the specific requirements, complexity, and trade-offs involved in each individual case.
+While Microfrontends offer numerous benefits, they also introduce additional complexity and require careful consideration of factors such as:
+- Inter-microfrontend communication
+- Routing
+- Data management.
+
+Microfrontends may not be the ideal solution for all applications or organizations, so it's essential to evaluate the specific requirements, complexity, and trade-offs involved in each individual case.
 
 ## Single SPA v Module Federation:
 The main difference between module federation and single-spa is the way they handle the sharing, and reuse of modules.
